@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+# A simple html project for ADET
