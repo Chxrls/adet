@@ -1,21 +1,21 @@
-
 .container {
-    text-align: center;
-    display: flex; 
-    flex-direction: row; 
-    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .container img { 
-    margin-right: 10px; 
+    text-align: center;
 }
 
 .circle {
-    width: 160px; 
-    height: 160px; 
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
-    text-align: center; 
-    margin: 30px;   
+    text-align: center;
+    margin: 25px;
+    display: inline-block; 
 }
 
 .circle img {
